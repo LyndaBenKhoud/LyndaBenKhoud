@@ -28,5 +28,5 @@ https://www.credly.com/users/lynda-ben-khoud
   </a>
 
 
-#### ✨  I am eager to take on challenges and explore new areas of knowledge ✨
+#### ✨  I am eager to take on challenges and explore new areas of knowledge 
 ---
