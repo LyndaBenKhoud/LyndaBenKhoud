@@ -30,6 +30,6 @@ https://www.credly.com/users/lynda-ben-khoud
 
 ---
 
-#### 📢 I am available for speaking engagement on IT empowerment
+#### ✨I am eager to take on challenges and explore new areas of knowledge
 ---
 
