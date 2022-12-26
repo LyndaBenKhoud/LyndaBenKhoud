@@ -14,22 +14,19 @@ I am very passionate about cloud computing, networking and security, productivit
 I ❤ Microsoft Azure with his varity services, i enjoy working with it because it offers a great deal of flexibility and a wide range of service options, allowing me to find solutions that are tailored to the needs of each project. I am convinced that Microsoft Azure is the best platform for businesses looking to take advantage of the benefits of cloud computing.
 
 
-  <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/lynda-ben-khoud-82b6a61b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </a>
-   <a href="https://www.facebook.com/lynda.benkhoud.18">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-</div>
-
 ### 🛠️ My Certifications Badge :
 https://www.credly.com/users/lynda-ben-khoud
 
+### 💬 How to reach me: 
+<div id="badges" align="center">
+<a href="https://www.linkedin.com/in/lynda-ben-khoud-82b6a61b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </a>
+  <a href="https://twitter.com/LyndaBenKhoud">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 
+
+#### ✨  I am eager to take on challenges and explore new areas of knowledge ✨
 ---
-
-#### ✨I am eager to take on challenges and explore new areas of knowledge
----
-
