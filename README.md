@@ -31,7 +31,6 @@ https://www.credly.com/users/lynda-ben-khoud
 ---
 
 ## 📜 Stats
-
 <p align="center">
   <img width="%" src="https://github-readme-stats.vercel.app/api?username=lyndabenkhoud&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
@@ -40,4 +39,3 @@ https://www.credly.com/users/lynda-ben-khoud
  </tr>
 </table>
 
-####  I am eager to take on challenges and explore new areas of knowledge
