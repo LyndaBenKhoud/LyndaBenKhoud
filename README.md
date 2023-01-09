@@ -29,6 +29,17 @@ https://www.credly.com/users/lynda-ben-khoud
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-
-#### ✨  I am eager to take on challenges and explore new areas of knowledge
 ---
+
+## 📜 Stats
+
+
+<p align="center">
+  <img width="%" src="https://github-readme-stats.vercel.app/api?username=lyndabenkhoud&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+ </br>
+  <img width="%" src="https://github-readme-streak-stats.herokuapp.com/?user=lyndabenkhoud"/>
+ </br>
+ </tr>
+</table>
+
+####  I am eager to take on challenges and explore new areas of knowledge
