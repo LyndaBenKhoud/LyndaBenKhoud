@@ -13,8 +13,7 @@ I am very passionate about cloud computing, networking and security, productivit
 
 I ❤ Microsoft Azure with his varity services, i enjoy working with it because it offers a great deal of flexibility and a wide range of service options, allowing me to find solutions that are tailored to the needs of each project. I am convinced that Microsoft Azure is the best platform for businesses looking to take advantage of the benefits of cloud computing.
 
----
-  
+
 
 ### 🛠️ My Certifications Badge :
 https://www.credly.com/users/lynda-ben-khoud
@@ -32,7 +31,6 @@ https://www.credly.com/users/lynda-ben-khoud
 ---
 
 ## 📜 Stats
-
 
 <p align="center">
   <img width="%" src="https://github-readme-stats.vercel.app/api?username=lyndabenkhoud&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
