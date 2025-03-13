@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=My+Name+is++Lynda+Ben+Khoud;23+Years+old+from+tunisia..."/>
 
-I'am Technical Support Specialist Cloud platform at RFC .
+I'am Cloud Consultant at RFC .
 I have had the opportunity to work with a talented group of educators and IT professionals who have utilized Microsoft Azure tools and services.
 
 I am very passionate about cloud computing, networking and security, productivity and collaboration, and particularly about using of Microsoft technologies. I have the pleasure of working with an excellent team of network and security architects and engineers, and I lead a number of open source projects that help share ideas and foster innovation across various teams and communities.
